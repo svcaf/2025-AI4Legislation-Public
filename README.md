@@ -44,7 +44,7 @@ Participants must submit a **complete project package** by the deadline to be el
 
 ### 1. **Project Code & Implementation**  
 - All source code, scripts, and dependencies required to run the project.  
-- Must be uploaded to an ** GitHub repository**: please clear mark gith commit HASH number or a release tag used for the competition.
+- Must be uploaded to an **GitHub repository**: please clear mark a git commit HASH number or a release tag used for the competition.
 - Clearly structured repository with a **README.md** file explaining installation, setup, and usage.  
 
 ### 2. **Datasets (if applicable)**  
