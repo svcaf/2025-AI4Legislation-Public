@@ -3,7 +3,7 @@
 A public rep of 2025's AI4Legislation competition. We publish latest information here. 
 
 ## About SVCAF  
-The **Silicon Valley Chinese Association Foundation (SVCAF)** is a non-profit organization dedicated to promoting civic engagement, political participation, and legal education within Chinese-American communities in Silicon Valley and beyond. Through initiatives like AI4Legislation, SVCAF aims to foster innovation and collaboration in using AI for legislative and civic processes.  
+Founded in 2014, the **Silicon Valley Chinese Association Foundation (SVCAF)** is a non-profit organization dedicated to promoting civic engagement, political participation, and legal education within Chinese-American communities in Silicon Valley and beyond. Through initiatives like AI4Legislation, SVCAF aims to foster innovation and collaboration in using AI for legislative and civic processes.  
 
 ## Motivation and Scope  
 The **AI4Legislation 2025** competition seeks to inspire individuals and teams to explore how **artificial intelligence** can enhance legislative processes, policy analysis, and civic engagement. Participants are encouraged to develop AI-powered solutions that address challenges in lawmaking, legal interpretation, public policy transparency, and citizen participation in governance.  
