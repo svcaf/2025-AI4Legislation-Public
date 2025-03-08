@@ -8,6 +8,13 @@ Founded in 2014, the **Silicon Valley Chinese Association Foundation (SVCAF)** i
 ## Motivation and Scope  
 The **AI4Legislation 2025** competition seeks to inspire individuals and teams to explore how **artificial intelligence** can enhance legislative processes, policy analysis, and civic engagement. Participants are encouraged to develop AI-powered solutions that address challenges in lawmaking, legal interpretation, public policy transparency, and citizen participation in governance.  
 
+## Submission Categories  
+Participants may submit projects in one of the following categories:  
+1. **AI for Policy Analysis** – AI models that analyze, summarize, or compare legislation.  
+2. **AI for Legal Assistance** – AI tools that help individuals understand laws and regulations.  
+3. **AI for Civic Engagement** – AI-driven platforms that promote public participation in governance.  
+4. **AI for Ethical and Fair Lawmaking** – AI solutions addressing bias, fairness, or transparency in legislation.  
+5. **Other Innovations** – Open category for creative AI applications in the legislative process.  
 
 ## Eligibility
 - Open to any individual or team within the United States.  
