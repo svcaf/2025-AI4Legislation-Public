@@ -35,6 +35,10 @@ Dashboards and visualizations that help the public track government actions.
 - **Content:** Briefly explain the main problem your project aims to address.  
 - **Purpose:** Organizers will use this information to find relevant judges.  
 
+## Submission Details
+- **Deadline:** July 31, 2025 (End of day, Pacific Time)  
+- **Submission Website:** [GitHub Repository](https://github.com/svcaf/2025-AI4Legislation-Public)
+
 ## Submission Package Requirements  
 
 Participants must submit a **complete project package** by the deadline to be eligible for judging. The submission should include the following components:  
@@ -82,31 +86,27 @@ It is best to store the documentations within a subfolder of your git repo.
 
 All materials should be well-documented and easy to follow. Incomplete submissions may be disqualified from the competition.  Please email the submission package (links to required content or as attachments) to info@svcaf.org by the stated deadline below.
 
-### Submission Details
-- **Deadline:** July 31, 2025 (End of day, Pacific Time)  
-- **Submission Website:** [GitHub Repository](https://github.com/svcaf/2025-AI4Legislation-Public)  
-
-### Judging Criteria  
+## Judging Criteria  
 
 Projects submitted to **AI4Legislation 2025** will be evaluated by a panel of experts based on the following criteria:  
 
-#### 1. **Innovation & Creativity (25%)**  
+### 1. **Innovation & Creativity (25%)**  
 - Does the project introduce a novel approach or solution to a legislative or civic problem?  
 - How creative is the use of AI in addressing the identified issue?  
 
-#### 2. **Impact & Relevance (25%)**  
+### 2. **Impact & Relevance (25%)**  
 - How well does the project address real-world challenges in legislation, policy analysis, or civic engagement?  
 - Could the solution be realistically implemented or scaled for broader societal benefit?  
 
-#### 3. **Technical Excellence (20%)**  
+### 3. **Technical Excellence (20%)**  
 - Is the AI model, algorithm, or system well-designed, efficient, and technically sound?  
 - Does the project demonstrate a solid understanding of AI and relevant technologies?  
 
-#### 4. **Usability & Accessibility (15%)**  
+### 4. **Usability & Accessibility (15%)**  
 - Is the project easy to use and accessible to the intended audience?  
 - Does it provide a clear and user-friendly interface or experience?  
 
-#### 5. **Ethical Considerations & Fairness (15%)**  
+### 5. **Ethical Considerations & Fairness (15%)**  
 - Does the project consider issues of fairness, bias, and transparency in AI decision-making?  
 - Are there safeguards to prevent misuse or unintended consequences?  
 
