@@ -17,11 +17,13 @@ More awards may be added based on fundraising results.
   
 ## Submission Categories  
 Participants may submit projects in one of the following categories:  
-1. **AI for Policy Analysis** – AI models that analyze, summarize, or compare legislation.  
-2. **AI for Legal Assistance** – AI tools that help individuals understand laws and regulations.  
-3. **AI for Civic Engagement** – AI-driven platforms that promote public participation in governance.  
-4. **AI for Ethical and Fair Lawmaking** – AI solutions addressing bias, fairness, or transparency in legislation.  
-5. **Other Innovations** – Open category for creative AI applications in the legislative process.  
+Participants will compete in one or more of the following categories:
+* **Legislative Tracking**: AI-powered tools to monitor the progress of bills, amendments, and key legislative changes.
+Dashboards and visualizations that help the public track government actions.
+* **Bill Analysis**:  AI tools that generate easy-to-understand summaries, pros/cons, and potential impacts of legislative texts. NLP-based applications that translate legal jargon into plain language.
+* **Civic Action & Advocacy**: AI chatbots or platforms that help users contact their representatives, sign petitions, or organize civic actions.
+* **Compliance Monitoring**, including these that ensure government spending aligns with legislative budgets.
+* **Others**: Any other AI-driven solutions that enhance public understanding and participation in legislative processes.
 
 ## Eligibility
 - Open to any individual or team within the United States.  
