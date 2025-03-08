@@ -9,7 +9,7 @@ Founded in 2014, the **Silicon Valley Chinese Association Foundation (SVCAF)** i
 The **AI4Legislation 2025** competition seeks to inspire individuals and teams to explore how **artificial intelligence** can enhance legislative processes, policy analysis, and civic engagement. Participants are encouraged to develop AI-powered solutions that address challenges in lawmaking, legal interpretation, public policy transparency, and citizen participation in governance.  
 
 ## Awards
-- **1st Place:** 1 award, **$3,000**  
+- **1st Place:** 1 award, **$3,000 each**  
 - **2nd Place:** 2 awards, **$2,000 each**  
 - **3rd Place:** 3 awards, **$1,000 each**  
 
