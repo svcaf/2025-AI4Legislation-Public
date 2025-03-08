@@ -34,11 +34,8 @@ Dashboards and visualizations that help the public track government actions.
 - **Content:** Briefly explain the main problem your project aims to address.  
 - **Purpose:** Organizers will use this information to find relevant judges.  
 
-## Submission Details
+## Submission Deadline and Packages
 - **Deadline:** July 31, 2025 (End of day, Pacific Time)  
-- **Submission Website:** [GitHub Repository](https://github.com/svcaf/2025-AI4Legislation-Public)
-
-## Submission Package Requirements  
 
 Participants must submit a **complete project package** by the deadline to be eligible for judging. The submission should include the following components:  
 
