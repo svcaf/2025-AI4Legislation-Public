@@ -30,6 +30,32 @@ Participants may submit projects in one of the following categories:
 - **Deadline:** July 31, 2025 (End of day, Pacific Time)  
 - **Submission Website:** [GitHub Repository](https://github.com/svcaf/2025-AI4Legislation-Public)  
 
+## Judging Criteria  
+
+Projects submitted to **AI4Legislation 2025** will be evaluated by a panel of experts based on the following criteria:  
+
+### 1. **Innovation & Creativity (25%)**  
+- Does the project introduce a novel approach or solution to a legislative or civic problem?  
+- How creative is the use of AI in addressing the identified issue?  
+
+### 2. **Impact & Relevance (25%)**  
+- How well does the project address real-world challenges in legislation, policy analysis, or civic engagement?  
+- Could the solution be realistically implemented or scaled for broader societal benefit?  
+
+### 3. **Technical Excellence (20%)**  
+- Is the AI model, algorithm, or system well-designed, efficient, and technically sound?  
+- Does the project demonstrate a solid understanding of AI and relevant technologies?  
+
+### 4. **Usability & Accessibility (15%)**  
+- Is the project easy to use and accessible to the intended audience?  
+- Does it provide a clear and user-friendly interface or experience?  
+
+### 5. **Ethical Considerations & Fairness (15%)**  
+- Does the project consider issues of fairness, bias, and transparency in AI decision-making?  
+- Are there safeguards to prevent misuse or unintended consequences?  
+
+Each project will be reviewed holistically, and judges will provide feedback to participants where possible. The final ranking will be determined by a combination of these factors, ensuring that the most impactful and well-executed projects receive recognition.  
+
 ### Awards
 - **1st Place:** 1 award, **$3,000**  
 - **2nd Place:** 2 awards, **$2,000 each**  
