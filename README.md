@@ -29,7 +29,7 @@ Dashboards and visualizations that help the public track government actions.
 - High school and college students are especially encouraged to participate.  
 
 ## Letter of Intention (Optional but Highly Recommended)
-- **Deadline:** April 30, 2025 (End of day, Pacific Time)  
+- **Deadline:** May 31, 2025 (End of day, Pacific Time)  
 - **How to Submit:** Send an email to **info@svcaf.org**  
 - **Content:** Briefly explain the main problem your project aims to address.  
 - **Purpose:** Organizers will use this information to find relevant judges.  
