@@ -16,8 +16,7 @@ The **AI4Legislation 2025** competition seeks to inspire individuals and teams t
 More awards may be added based on fundraising results.
   
 ## Submission Categories  
-Participants may submit projects in one of the following categories:  
-Participants will compete in one or more of the following categories:
+Participants may submit projects in one of the following categories:
 * **Legislative Tracking**: AI-powered tools to monitor the progress of bills, amendments, and key legislative changes.
 Dashboards and visualizations that help the public track government actions.
 * **Bill Analysis**:  AI tools that generate easy-to-understand summaries, pros/cons, and potential impacts of legislative texts. NLP-based applications that translate legal jargon into plain language.
