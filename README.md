@@ -8,7 +8,7 @@ Founded in 2014, the **Silicon Valley Chinese Association Foundation (SVCAF)** i
 ## Motivation and Scope  
 The **AI4Legislation 2025** competition seeks to inspire individuals and teams to explore how **artificial intelligence** can enhance legislative processes, policy analysis, and civic engagement. Participants are encouraged to develop AI-powered solutions that address challenges in lawmaking, legal interpretation, public policy transparency, and citizen participation in governance.  
 
-### Awards
+## Awards
 - **1st Place:** 1 award, **$3,000**  
 - **2nd Place:** 2 awards, **$2,000 each**  
 - **3rd Place:** 3 awards, **$1,000 each**  
@@ -27,11 +27,58 @@ Participants may submit projects in one of the following categories:
 - Open to any individual or team within the United States.  
 - High school and college students are especially encouraged to participate.  
 
-### Letter of Intention (Optional but Highly Recommended)
+## Letter of Intention (Optional but Highly Recommended)
 - **Deadline:** April 30, 2025 (End of day, Pacific Time)  
 - **How to Submit:** Send an email to **info@svcaf.org**  
 - **Content:** Briefly explain the main problem your project aims to address.  
 - **Purpose:** Organizers will use this information to find relevant judges.  
+
+## Submission Package Requirements  
+
+Participants must submit a **complete project package** by the deadline to be eligible for judging. The submission should include the following components:  
+
+### 1. **Project Code & Implementation**  
+- All source code, scripts, and dependencies required to run the project.  
+- Must be uploaded to an ** GitHub repository**: please clear mark gith commit HASH number or a release tag used for the competition.
+- Clearly structured repository with a **README.md** file explaining installation, setup, and usage.  
+
+### 2. **Datasets (if applicable)**  
+- Any datasets used for training or testing AI models must be included or linked if publicly available.  
+- Clearly document data sources, preprocessing steps, and ethical considerations related to data usage.  
+
+### 3. **AI Models (if applicable)**  
+- If the project includes a trained AI model, provide the model files and inference scripts.  
+- Clearly describe how the model was trained, including architectures, hyperparameters, and training datasets.  
+- If using pre-trained models, specify the source and any modifications made.  
+
+### 4. **Technical Documentation**  
+- A **Project Report (PDF or Markdown)** summarizing:  
+  - Problem statement and motivation.  
+  - Approach, methodologies, and AI techniques used.  
+  - Results, evaluations, and key findings.  
+  - Ethical considerations and potential impact.  
+  - Future improvements or scalability ideas.  
+- API documentation (if applicable) for projects with an interactive or software component.  
+
+It is best to store the documentations within a subfolder of your git repo. 
+
+### 5. **Video Demonstration (Highly Recommended)**  
+- A short **demo video (5-10 minutes)** explaining and showcasing the project in action.  
+- The video should be uploaded to **YouTube** with the link included in the submission.  
+- Suggested content:  
+  - Brief introduction to the project’s purpose and problem statement.  
+  - Demonstration of key features and functionalities.  
+  - Explanation of AI techniques used and their impact.  
+
+### 6. **Presentation Slides (Optional, but Encouraged)**  
+- A concise **slide deck (PDF or PowerPoint)** summarizing the project.  
+- Useful for judges to quickly understand key aspects of the project.  
+
+### 7. **License & Attribution**  
+- Clearly state the **license** (e.g., MIT, Apache 2.0, GPL) under which the project is shared.  
+- Acknowledge any external tools, datasets, or resources used.  
+
+All materials should be well-documented and easy to follow. Incomplete submissions may be disqualified from the competition.  Please email the submission package (links to required content or as attachments) to info@svcaf.org by the stated deadline below.
 
 ### Submission Details
 - **Deadline:** July 31, 2025 (End of day, Pacific Time)  
