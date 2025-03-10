@@ -81,7 +81,7 @@ It is best to store the documentations within a subfolder of your git repo.
 - Acknowledge any external tools, datasets, or resources used.  
 
 All materials should be well-documented and easy to follow. Incomplete submissions may be disqualified from the competition.  Please email the submission package (links to required content or as attachments) to info@svcaf.org by the stated deadline below.
-
+* An example project submissiom email is given here [Example Email](https://github.com/svcaf/2025-AI4Legislation-Public/wiki/Project-Submission:Example-Email)
 ## Judging Criteria  
 
 Projects submitted to **AI4Legislation 2025** will be evaluated by a panel of experts based on the following criteria:  
