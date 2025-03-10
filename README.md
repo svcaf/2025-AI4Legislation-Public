@@ -1,6 +1,6 @@
 # 2025-AI4Legislation-Public
 
-A public repo of 2025's AI4Legislation competition. We publish latest information here. 
+A public repo of 2025's AI4Legislation competition. We publish the latest information here. 
 
 ## About SVCAF  
 Founded in 2014, the **Silicon Valley Chinese Association Foundation (SVCAF)** is a non-profit organization dedicated to promoting civic engagement, political participation, and legal education within Chinese-American communities in Silicon Valley and beyond. Through initiatives like AI4Legislation, SVCAF aims to foster innovation and collaboration in using AI for legislative and civic processes.  
@@ -21,7 +21,7 @@ Participants may submit projects in one of the following categories:
 Dashboards and visualizations that help the public track government actions.
 * **Bill Analysis**:  AI tools that generate easy-to-understand summaries, pros/cons, and potential impacts of legislative texts. NLP-based applications that translate legal jargon into plain language.
 * **Civic Action & Advocacy**: AI chatbots or platforms that help users contact their representatives, sign petitions, or organize civic actions.
-* **Compliance Monitoring**, including these that ensure government spending aligns with legislative budgets.
+* **Compliance Monitoring**: AI-powered projects that ensure government spending aligns with legislative budgets.
 * **Others**: Any other AI-driven solutions that enhance public understanding and participation in legislative processes.
 
 ## Eligibility
@@ -30,7 +30,7 @@ Dashboards and visualizations that help the public track government actions.
 
 ## Letter of Intention (Optional but Highly Recommended)
 - **Deadline:** May 31, 2025 (End of day, Pacific Time)  
-- **How to Submit:** Send an email to **info@svcaf.org**  
+- **How to Submit:** Send an email to **info@svcaf.org**.
 - **Content:** Briefly explain the main problem your project aims to address.  
 - **Purpose:** Organizers will use this information to find relevant judges.  
 
@@ -41,7 +41,7 @@ Participants must submit a **complete project package** by the deadline to be el
 
 ### 1. **Project Code & Implementation**  
 - All source code, scripts, and dependencies required to run the project.  
-- Must be uploaded to an **GitHub repository**: please clear mark a git commit HASH number or a release tag used for the competition.
+- Must be uploaded to a **GitHub repository**: please clearly mark a git commit HASH number or a release tag used for the competition. Any changes made after the submitted commit will not be judged as part of the competition.
 - Clearly structured repository with a **README.md** file explaining installation, setup, and usage.  
 
 ### 2. **Datasets (if applicable)**  
@@ -80,7 +80,7 @@ It is best to store the documentations within a subfolder of your git repo.
 - Clearly state the **license** (e.g., MIT, Apache 2.0, GPL) under which the project is shared.  
 - Acknowledge any external tools, datasets, or resources used.  
 
-All materials should be well-documented and easy to follow. Incomplete submissions may be disqualified from the competition.  Please email the submission package (links to required content or as attachments) to info@svcaf.org by the stated deadline below.
+All materials should be well-documented and easy to follow. Incomplete submissions may be disqualified from the competition.  Please email the submission package (links to required content or as attachments) to info@svcaf.org by the stated deadline of July 31, 2025 Pacific Time.
 
 ## Judging Criteria  
 
@@ -110,7 +110,8 @@ Each project will be reviewed holistically, and judges will provide feedback to 
 
 ## Contact Us
 
-Email: info@svcaf.org
+Email
+* info@svcaf.org
 
 Discord server to hangout and chat
 * https://discord.gg/P5k2Ap2XuF
