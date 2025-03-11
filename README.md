@@ -80,7 +80,8 @@ It is best to store the documentations within a subfolder of your git repo.
 - Clearly state the **license** (e.g., MIT, Apache 2.0, GPL) under which the project is shared.  
 - Acknowledge any external tools, datasets, or resources used.  
 
-All materials should be well-documented and easy to follow. Incomplete submissions may be disqualified from the competition.  Please email the submission package (links to required content or as attachments) to info@svcaf.org by the stated deadline of July 31, 2025 Pacific Time.
+All materials should be well-documented and easy to follow. Incomplete submissions may be disqualified from the competition.  Please email the submission package (links to required content or as attachments) to info@svcaf.org by the stated deadline below.
+* An example project submissiom email is given here [Example Email](https://github.com/svcaf/2025-AI4Legislation-Public/wiki/Project-Submission:Example-Email)
 
 ## Judging Criteria  
 
