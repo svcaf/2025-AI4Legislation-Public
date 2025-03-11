@@ -34,10 +34,11 @@ Dashboards and visualizations that help the public track government actions.
 - **Content:** Briefly explain the main problem your project aims to address.  
 - **Purpose:** Organizers will use this information to find relevant judges.  
 
-## Submission Deadline and Packages
+## Submission Deadline and Instructions
 - **Deadline:** July 31, 2025 (End of day, Pacific Time)  
 
-Participants must submit a **complete project package** by the deadline to be eligible for judging. The submission should include the following components:  
+Participants must submit a **complete project package** by the deadline to be eligible for judging. The submission should include the components listed below in a format that is well-documented and easy to follow. Incomplete submissions may be disqualified from the competition.  Please email the submission package (links to required content or as attachments) to info@svcaf.org by the stated deadline below.
+* An example project submissiom email is given here [Example Email](https://github.com/svcaf/2025-AI4Legislation-Public/wiki/Project-Submission:Example-Email) 
 
 ### 1. **Project Code & Implementation**  
 - All source code, scripts, and dependencies required to run the project.  
@@ -79,9 +80,6 @@ It is best to store the documentations within a subfolder of your git repo.
 ### 7. **License & Attribution**  
 - Clearly state the **license** (e.g., MIT, Apache 2.0, GPL) under which the project is shared.  
 - Acknowledge any external tools, datasets, or resources used.  
-
-All materials should be well-documented and easy to follow. Incomplete submissions may be disqualified from the competition.  Please email the submission package (links to required content or as attachments) to info@svcaf.org by the stated deadline below.
-* An example project submissiom email is given here [Example Email](https://github.com/svcaf/2025-AI4Legislation-Public/wiki/Project-Submission:Example-Email)
 
 ## Judging Criteria  
 
