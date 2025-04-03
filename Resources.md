@@ -7,8 +7,8 @@ The FAQ is available at the repo's [Discussions section](https://github.com/svca
 ## Seminar Series
 We will host informational seminars each month via Zoom, featuring entrepreneurs from various Civic Tech projects to speak about their experience with current AI-powered legislative solutions. During this seminar, you will have the opportunity to ask questions to industry veterans directly and gain insight on ways to approach or improve your competition submission.
 1. [Featuring Legalese Decoder](https://www.svcaf.org/2025/03/seminar-series-ai4legislation-featuring-legalese-decoder/): **Wednesday April 2, 2025 at 6:30PM to 7:30PM** (Pacific)
-   a. [YouTube Recording](https://www.youtube.com/watch?v=KZrk8SJIcX8)
-   b. [Event Recap](https://www.svcaf.org/2025/04/ai4legislation-seminar-perspectives-and-qa/)
+   - [YouTube Recording](https://www.youtube.com/watch?v=KZrk8SJIcX8)
+   - [Event Recap](https://www.svcaf.org/2025/04/ai4legislation-seminar-perspectives-and-qa/)
 
 Please RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdnUjrQ6Rf-SnRhBJvzbp9_hXPW0Ck26uZAa2w4NL9f5cvSrA/viewform?usp=header) :)
 
