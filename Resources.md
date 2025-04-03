@@ -18,4 +18,4 @@ An example project submission email can be found at the corresponding [Github Wi
 
 ## Want to Support AI4Legislation or SVCAF?
 * Volunteers: The AI4Legislation Project Team is currently fielding applications for volunteers. For more information, refer to our [Call for Volunteers page](https://www.svcaf.org/2025/02/call-for-volunteers-for-ai4legislation-using-ai-to-enhance-civic-awareness-and-action/). If you interested, please reach out to info@svcaf.org.
-* Donations: SVCAF accepts donations year-round [here](https://www.svcaf.org/donations/). To donate directly to the competition, please clearly state on your check or online transfer method that the funds shall be allocated toward AI4Legislation. Donations will be contribute primarily to the total prize pool and project's logistics.
+* Donations: SVCAF accepts donations year-round [here](https://www.svcaf.org/donations/). To donate directly to the competition, please clearly memo on your check or online transfer method that the funds shall be allocated toward AI4Legislation. Donations will be contribute primarily to the total prize pool and project's logistics.
