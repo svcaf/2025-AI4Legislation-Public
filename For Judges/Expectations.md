@@ -37,4 +37,4 @@ Please evaluate projects objectively and impartially:
 ### Thank you for being a part of AI4Legislation!
 We appreciate your time and effort in recognizing outstanding AI innovations in legislative technology.
 
-For any questions, please contact our Project Manager, Cynthia, at cynthia@svcaf.org.
+For any questions, please contact our Project Manager, Cynthia, at cynthia@svcaf.org. Join our [Discord](https://discord.gg/HQ6gFFGtmS) for the quickest responses and project updates!
