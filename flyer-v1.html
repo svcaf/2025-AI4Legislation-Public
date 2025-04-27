@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI4Legislation Flyer</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Open Sans', sans-serif;
+            background-color: #f8f9fa;
+        }
+        .flyer {
+            width: 816px;
+            min-height: 1056px;
+            margin: 0 auto;
+            background: linear-gradient(135deg, #ffffff 0%, #f6f9ff 100%);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            position: relative;
+        }
+        h1, h2, h3, h4 {
+            font-family: 'Montserrat', sans-serif;
+        }
+        .header-bg {
+            background: linear-gradient(90deg, #2563eb 0%, #4f46e5 100%);
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 220px;
+            z-index: 0;
+        }
+        .phase-box {
+            border-left: 4px solid #2563eb;
+            transition: all 0.3s ease;
+        }
+        .phase-box:hover {
+            transform: translateX(5px);
+        }
+        .category-card {
+            border-top: 3px solid #4f46e5;
+            transition: all 0.3s ease;
+        }
+        .category-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+        }
+        .contact-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+        .contact-item i {
+            width: 24px;
+            margin-right: 8px;
+            color: #2563eb;
+        }
+        .circle-pattern {
+            position: absolute;
+            border-radius: 50%;
+            background: rgba(79, 70, 229, 0.1);
+            z-index: 0;
+        }
+        .logo {
+            height: 70px;
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            z-index: 10;
+            background: white;
+            border-radius: 8px;
+            padding: 5px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="flyer p-8 relative">
+        <!-- Background Elements -->
+        <div class="header-bg"></div>
+        <div class="circle-pattern" style="width: 300px; height: 300px; bottom: -100px; right: -100px;"></div>
+        <div class="circle-pattern" style="width: 200px; height: 200px; top: 400px; left: -100px;"></div>
+        
+        <!-- SVCAF Logo -->
+        <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/https://www.svcaf.org/wp-content/uploads/2015/05/new-logo.jpg" alt="SVCAF Logo" class="logo">
+        
+        <!-- Header Section -->
+        <div class="relative z-10 text-center pt-10 pb-6">
+            <h1 class="text-4xl font-bold text-white mb-2">AI4Legislation</h1>
+            <h2 class="text-2xl font-semibold text-white mb-1">Using AI to Enhance Civic Awareness and Action</h2>
+            <p class="text-white opacity-90">A Project by Silicon Valley Chinese Association Foundation (SVCAF)</p>
+        </div>
+        
+        <!-- Introduction -->
+        <div class="bg-white rounded-lg p-6 shadow-md mb-6 relative z-10">
+            <p class="text-gray-700">SVCAF is launching an open competition that invites innovators to develop open-source AI tools making legislation more transparent, understandable, and accessible to the public, particularly for Chinese American communities.</p>
+        </div>
+        
+        <!-- Project Goals -->
+        <div class="mb-6">
+            <h3 class="text-xl font-bold text-gray-800 mb-3 flex items-center">
+                <i class="fas fa-bullseye text-blue-600 mr-2"></i> Project Goals
+            </h3>
+            <div class="grid grid-cols-2 gap-3">
+                <div class="bg-blue-50 p-3 rounded-md flex items-start">
+                    <i class="fas fa-file-alt text-blue-500 mt-1 mr-2"></i>
+                    <p class="text-sm">Simplify complex legal texts with AI tools</p>
+                </div>
+                <div class="bg-blue-50 p-3 rounded-md flex items-start">
+                    <i class="fas fa-chart-line text-blue-500 mt-1 mr-2"></i>
+                    <p class="text-sm">Enable better tracking of laws and policies</p>
+                </div>
+                <div class="bg-blue-50 p-3 rounded-md flex items-start">
+                    <i class="fas fa-users text-blue-500 mt-1 mr-2"></i>
+                    <p class="text-sm">Encourage civic action and participation</p>
+                </div>
+                <div class="bg-blue-50 p-3 rounded-md flex items-start">
+                    <i class="fas fa-code text-blue-500 mt-1 mr-2"></i>
+                    <p class="text-sm">Foster open-source solutions available to all</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Competition Structure -->
+        <div class="mb-6">
+            <h3 class="text-xl font-bold text-gray-800 mb-3 flex items-center">
+                <i class="fas fa-calendar-alt text-indigo-600 mr-2"></i> Competition Structure
+            </h3>
+            <div class="space-y-3">
+                <div class="phase-box bg-white pl-4 p-3 rounded-md shadow-sm">
+                    <h4 class="font-bold text-indigo-700">Phase 1: Planning & Fundraising <span class="text-sm font-normal text-gray-500">(Mar-Apr)</span></h4>
+                    <p class="text-sm text-gray-600">Define project milestones, competition rules, and develop fundraising strategy</p>
+                </div>
+                <div class="phase-box bg-white pl-4 p-3 rounded-md shadow-sm">
+                    <h4 class="font-bold text-indigo-700">Phase 2: Marketing & Submissions <span class="text-sm font-normal text-gray-500">(May-Jul)</span></h4>
+                    <p class="text-sm text-gray-600">Launch competition, promote via media, conduct webinars, and accept submissions</p>
+                </div>
+                <div class="phase-box bg-white pl-4 p-3 rounded-md shadow-sm">
+                    <h4 class="font-bold text-indigo-700">Phase 3: Judging & Awards <span class="text-sm font-normal text-gray-500">(Aug-Sep)</span></h4>
+                    <p class="text-sm text-gray-600">Evaluate submissions, announce winners, and host showcase event</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Categories of AI Solutions -->
+        <div class="mb-6">
+            <h3 class="text-xl font-bold text-gray-800 mb-3 flex items-center">
+                <i class="fas fa-robot text-purple-600 mr-2"></i> Categories of AI Solutions
+            </h3>
+            <div class="grid grid-cols-2 gap-3">
+                <div class="category-card bg-white p-3 rounded-md shadow-sm">
+                    <h4 class="font-bold text-purple-700 mb-1">Legislative Tracking</h4>
+                    <p class="text-xs text-gray-600">Monitor progress of bills, amendments, and legislative changes</p>
+                </div>
+                <div class="category-card bg-white p-3 rounded-md shadow-sm">
+                    <h4 class="font-bold text-purple-700 mb-1">Bill Analysis</h4>
+                    <p class="text-xs text-gray-600">Generate summaries and translate legal jargon into plain language</p>
+                </div>
+                <div class="category-card bg-white p-3 rounded-md shadow-sm">
+                    <h4 class="font-bold text-purple-700 mb-1">Civic Action & Advocacy</h4>
+                    <p class="text-xs text-gray-600">Help users contact representatives and organize civic actions</p>
+                </div>
+                <div class="category-card bg-white p-3 rounded-md shadow-sm">
+                    <h4 class="font-bold text-purple-700 mb-1">Other Innovations</h4>
+                    <p class="text-xs text-gray-600">Any AI solutions enhancing participation in legislative processes</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Funding & Volunteer Info -->
+        <div class="grid grid-cols-2 gap-4 mb-6">
+            <div class="bg-gradient-to-br from-blue-50 to-indigo-50 p-4 rounded-lg shadow-sm">
+                <h3 class="text-lg font-bold text-gray-800 mb-2 flex items-center">
+                    <i class="fas fa-hand-holding-usd text-green-600 mr-2"></i> Funding
+                </h3>
+                <p class="text-sm mb-2">SVCAF has allocated <span class="font-bold text-green-600">$10,000</span> in seed matching funds to the award prize pool.</p>
+                <p class="text-xs text-gray-600">All donations will be matched up to $10,000 by SVCAF</p>
+            </div>
+            <div class="bg-gradient-to-br from-indigo-50 to-purple-50 p-4 rounded-lg shadow-sm">
+                <h3 class="text-lg font-bold text-gray-800 mb-2 flex items-center">
+                    <i class="fas fa-people-carry text-indigo-600 mr-2"></i> Volunteer Roles
+                </h3>
+                <ul class="text-xs space-y-1">
+                    <li class="flex items-center"><i class="fas fa-check text-indigo-500 mr-1"></i> Project Management Team</li>
+                    <li class="flex items-center"><i class="fas fa-check text-indigo-500 mr-1"></i> Marketing & Outreach Team</li>
+                    <li class="flex items-center"><i class="fas fa-check text-indigo-500 mr-1"></i> Fundraising & Sponsorship Team</li>
+                    <li class="flex items-center"><i class="fas fa-check text-indigo-500 mr-1"></i> AI & Tech Mentors</li>
+                    <li class="flex items-center"><i class="fas fa-check text-indigo-500 mr-1"></i> Judging & Evaluation Team</li>
+                </ul>
+            </div>
+        </div>
+        
+        <!-- Get Involved - CTA -->
+        <div class="bg-gradient-to-r from-blue-600 to-indigo-600 text-white p-5 rounded-lg shadow-md mb-5">
+            <h3 class="text-xl font-bold mb-3 text-center">Ready to Get Involved?</h3>
+            <div class="grid grid-cols-2 gap-4">
+                <div>
+                    <div class="contact-item">
+                        <i class="fas fa-envelope"></i>
+                        <a href="mailto:info@svcaf.org" class="text-white hover:text-blue-200 transition-colors">
+                            <span>info@svcaf.org</span>
+                        </a>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fab fa-github"></i>
+                        <a href="https://github.com/svcaf/2025-AI4Legislation-Public" class="text-white hover:text-blue-200 transition-colors">
+                            <span class="text-sm">github.com/svcaf/2025-AI4Legislation-Public</span>
+                        </a>
+                    </div>
+                </div>
+                <div>
+                    <div class="contact-item">
+                        <i class="fas fa-user-plus"></i>
+                        <span>Volunteer Sign-up (via Email)</span>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fab fa-discord"></i>
+                        <a href="https://discord.gg/P5k2Ap2XuF" class="text-white hover:text-blue-200 transition-colors">
+                            <span>Join our Discord: discord.gg/P5k2Ap2XuF</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Footer -->
+        <div class="text-center text-gray-500 text-sm">
+            <p>Let's bridge the gap between citizens and legislation with AI—together! 🚀</p>
+            <p class="mt-2 text-xs">Open to US individuals and teams. All tools will be open-source and in the public domain.</p>
+        </div>
+    </div>
+</body>
+</html>
