@@ -16,10 +16,9 @@ All updates will be announced in our Discord server: https://discord.gg/HQ6gFFGt
 ### FAQ
 The FAQ is available at the repo's [Discussions section](https://github.com/svcaf/2025-AI4Legislation-Public/discussions). Please ask additional questions in a new comment on the FAQ Discussion thread or in the #questions channel in the Discord server.
 
-### Seminar Series
+### Seminar Series [RSVP here!](https://docs.google.com/forms/d/e/1FAIpQLSdnUjrQ6Rf-SnRhBJvzbp9_hXPW0Ck26uZAa2w4NL9f5cvSrA/viewform?usp=header)
 We will host informational seminars each month via Zoom, featuring entrepreneurs from various Civic Tech projects to speak about their experience with current AI-powered legislative solutions. During this seminar, you will have the opportunity to ask questions to industry veterans directly and gain insight on ways to approach or improve your competition submission.
 
-[RSVP here!](https://docs.google.com/forms/d/e/1FAIpQLSdnUjrQ6Rf-SnRhBJvzbp9_hXPW0Ck26uZAa2w4NL9f5cvSrA/viewform?usp=header)
 1. [Featuring Legalese Decoder](https://www.svcaf.org/2025/03/seminar-series-ai4legislation-featuring-legalese-decoder/): **Wednesday April 2, 2025 at 6:30PM to 7:30PM** (Pacific)
    - [YouTube Recording](https://www.youtube.com/watch?v=KZrk8SJIcX8)
    - [Webinar Recap](https://www.svcaf.org/2025/04/ai4legislation-seminar-perspectives-and-qa/)
