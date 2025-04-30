@@ -1,12 +1,15 @@
 # Programming Resources
 
-### BillTrack50 API - "LegiScan"
-Karen Suhaka (founder of BillTrack50) has generally offered all competitors access to the BillTrack50 APIs for the duration of AI4Legislation (expires August 1, 2025). LegiScan offers bill tracking and identificaion as well as a national collection for JSON versions of legislative data. More information on LegiScan can be found on [the LegiScan website](https://legiscan.com/).
+### BillTrack50 API
+Karen Suhaka (founder of BillTrack50) has generally offered all competitors access to the BillTrack50 APIs for the duration of AI4Legislation (expires August 1, 2025). BillTrack50 offers bill and legislative tracking, including identifying similar legislative documents in different states. More information on BillTrack50 can be found on [the BillTrack50 website](https://www.billtrack50.com/info/).
 
 **Please contact Karen@LegiNation.com for details on how to access the API, and make sure to CC cynthia@svcaf.org in your email.**
 
 ### Karen Suhaka - Founder of BillTrack50
 Karen has also offered her mentorship to competitors, and encourages you to reach out to her for advice, programming help, and project tips! Please email her directly at Karen@LegiNation.com. General advice may be shared with other competitors, and anything strictly relating to a single project will be kept confidential.
+
+### LegiScan Public API
+LegiScan offers two free versions of their legislative data services, from bill monitoring to legal text JSONs. Learn more about registering and generating an API key on [the LegiScan website](https://legiscan.com/).
 
 # Other Resources
 
