@@ -28,6 +28,7 @@ We will host informational seminars each month via Zoom, featuring entrepreneurs
 2. Featuring [BillTrack50/LegiNation](https://www.svcaf.org/2025/04/seminar-series-ai4legislation-featuring-billtrack50/): **Monday April 28, 2025 at 12:00PM to 1:00PM** (Pacific)
    - [YouTube Recording](https://www.youtube.com/watch?v=X5vW32HjQpY)
    - [Webinar Recap](https://www.svcaf.org/2025/04/webinar-recap-billtrack50-with-karen-suhaka/)
+3. Featuring Liang Guo, AI data analysis expert: **Sunday June 8, 2025 at 11:00AM to 12:00PM** (Pacific)
 
 ### Sample Project Submission
 An example project submission email can be found at the corresponding [Github Wiki page](https://github.com/svcaf/2025-AI4Legislation-Public/wiki/Project-Submission:Example-Email).
