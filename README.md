@@ -118,7 +118,7 @@ Discord server to hangout and chat
 
 Volunteering opportunities:
 * https://www.svcaf.org/2025/02/call-for-volunteers-for-ai4legislation-using-ai-to-enhance-civic-awareness-and-action/
-* 
+  
 ## More info.
 
 https://www.svcaf.org
