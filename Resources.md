@@ -1,3 +1,6 @@
+Note: most info. has been moved to https://github.com/svcaf/2025-AI4Legislation-Public/wiki
+* as of June 8, 2025
+
 # Programming Resources
 
 ### BillTrack50 API
