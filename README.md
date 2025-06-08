@@ -113,7 +113,8 @@ Email
 * info@svcaf.org
 
 Discord server to hangout and chat
-* https://discord.gg/P5k2Ap2XuF
+* https://discord.gg/wXwFDWTdqc Updated on June 8th
+
 
 Volunteering opportunities:
 * https://www.svcaf.org/2025/02/call-for-volunteers-for-ai4legislation-using-ai-to-enhance-civic-awareness-and-action/
