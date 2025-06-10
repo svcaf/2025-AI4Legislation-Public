@@ -14,6 +14,9 @@ Karen has also offered her mentorship to competitors, and encourages you to reac
 ### LegiScan Public API
 LegiScan offers two free versions of their legislative data services, from bill monitoring to legal text JSONs. Learn more about registering and generating an API key on [the LegiScan website](https://legiscan.com/).
 
+### Data.gov Datasets
+The United States Government’s open data site is designed to unleash the power of government open data to inform decisions by the public and policymakers, drive innovation and economic activity, achieve agency missions, and strengthen the foundation of an open and transparent government.
+
 # Other Resources
 
 ### Join our Competition Discord!
@@ -32,6 +35,9 @@ We will host informational seminars each month via Zoom, featuring entrepreneurs
    - [YouTube Recording](https://www.youtube.com/watch?v=X5vW32HjQpY)
    - [Webinar Recap](https://www.svcaf.org/2025/04/webinar-recap-billtrack50-with-karen-suhaka/)
 3. Featuring Liang Guo, AI data analysis expert: **Sunday June 8, 2025 at 11:00AM to 12:00PM** (Pacific)
+   - [YouTube Recording](https://youtu.be/m6qoRnqygU8)
+   - [Webinar Recap](https://www.svcaf.org/2025/06/webinar-recap-ai-programming-for-data-analysis-with-mr-leon-guo/)
+   - [Slides](https://github.com/svcaf/2025-AI4Legislation-Public/blob/main/Slides-AI-Data-Analysis.pptx)
 
 ### Sample Project Submission
 An example project submission email can be found at the corresponding [Github Wiki page](https://github.com/svcaf/2025-AI4Legislation-Public/wiki/Project-Submission:Example-Email).
