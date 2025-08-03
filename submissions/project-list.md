@@ -9,7 +9,7 @@ Commit Hash for Submission: f45d63e
 
 YouTube Demo Video: [https://youtu.be/pG4KonR68Fk](https://youtu.be/pG4KonR68Fk)
 
-Technical Documentation (Project Report): (link)[https://github.com/svcaf/2025-AI4Legislation-Public/blob/e0092ae8125581944cf4a8c429393bcc933534c2/submissions/Project%201%20Behind%20the%20Bill/Behind%20the%20Bill%20-%20Project%20Report.pdf](https://github.com/svcaf/2025-AI4Legislation-Public/blob/e0092ae8125581944cf4a8c429393bcc933534c2/submissions/Project%201%20Behind%20the%20Bill/Behind%20the%20Bill%20-%20Project%20Report.pdf) 
+Technical Documentation (Project Report): [link](https://github.com/svcaf/2025-AI4Legislation-Public/blob/e0092ae8125581944cf4a8c429393bcc933534c2/submissions/Project%201%20Behind%20the%20Bill/Behind%20the%20Bill%20-%20Project%20Report.pdf) 
 
 ### Contact Information
 
