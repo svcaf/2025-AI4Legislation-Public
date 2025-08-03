@@ -61,8 +61,8 @@ GitHub: [https://github.com/linaiyer](https://github.com/linaiyer)
    • The 7-minute demo video showcases live bill analysis, explains the two-phase prediction system, and demonstrates real-world impact.  
 [https://www.youtube.com/watch?v=oLsZL\_xDgDU\&authuser=0](https://www.youtube.com/watch?v=oLsZL_xDgDU&authuser=0)   
 6\. Presentation Slides  
-   • A 10-slide presentation deck is included in the repository (docs/presentation.pdf) and attached to this email.
-    (link)[https://github.com/svcaf/2025-AI4Legislation-Public/blob/abeee911afc86826623f108f1ce2dd9b1332a846/submissions/Project%202%20Congressional%20Bill%20Tracker/Presentation%20-%20AI-Powered%20Bill%20Tracker%20Predicting%20Legislative%20Success.pdf]
+   • A 10-slide presentation deck is included in the repository (docs/presentation.pdf) and attached. [link](https://github.com/svcaf/2025-AI4Legislation-Public/blob/abeee911afc86826623f108f1ce2dd9b1332a846/submissions/Project%202%20Congressional%20Bill%20Tracker/Presentation%20-%20AI-Powered%20Bill%20Tracker%20Predicting%20Legislative%20Success.pdf)
+    
     
 7\. License & Attribution  
    • The project is released under the MIT License with Commons Clause.  
