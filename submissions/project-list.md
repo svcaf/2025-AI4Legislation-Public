@@ -14,7 +14,6 @@ Technical Documentation (Project Report): [https://github.com/svcaf/2025-AI4Legi
 ### Contact Information
 
 Name: Lina Iyer  
-Email: home.linaiyer@gmail.com  
 GitHub: [https://github.com/linaiyer](https://github.com/linaiyer)
 
 ## Project \#2 Congressional Bill Tracker
@@ -121,7 +120,7 @@ License & Attribution
 
 ### **Contact Information**
 
-Feel free to reach out
+Feel free to reach out: Alex Liao and Mrinal Agarwal
 
 ## Project \#4 Billingo
 
