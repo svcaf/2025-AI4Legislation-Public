@@ -136,7 +136,7 @@ Feel free to reach out: Alex Liao and Mrinal Agarwal
 
 Submission Package
 
-1. **Project Code & Implementation:** [https://billingo-demo.vercel.app](https://billingo-demo.vercel.app/)  
+1. **Live Demo Website:** [https://billingo-demo.vercel.app](https://billingo-demo.vercel.app/)  
 2. **Datasets**: Recent bill text (summary, analysis) were derived from [https://calmatters.digitaldemocracy.org/](https://calmatters.digitaldemocracy.org/) as prompts to the AI models  
 3. **AI Models:** Billingo used GPT-4.5-turbo model and Claude 3.5 Sonnet to generate an interactive, fun bill-learning curriculum   
 4. **Technical Documentation**  
