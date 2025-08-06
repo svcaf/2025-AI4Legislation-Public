@@ -151,7 +151,7 @@ Submission Package
 
 * Name: Ian Lee  
 * GitHub: [https://github.com/tylenode](https://github.com/tylenode)
-* 
+
 ## Project \#5 LegisCompare AI
 
 Project Name: LegisCompare AI  
