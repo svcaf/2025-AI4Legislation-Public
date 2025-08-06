@@ -160,7 +160,7 @@ Team Members: Mark Garcia (Individual Submission)
 
 GitHub Repository: https://github.com/mgkram4/LegisCompare-AI 
 
-Commit Hash for Submission: 
+Commit Hash for Submission: fd1d199a973088435b595c8a33ca32c23089520d
 
 Live Demo: https://legal-tool.vercel.app/
 
