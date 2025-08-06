@@ -151,3 +151,21 @@ Submission Package
 
 * Name: Ian Lee  
 * GitHub: [https://github.com/tylenode](https://github.com/tylenode)
+* 
+## Project \#5 LegisCompare AI
+
+Project Name: LegisCompare AI  
+Team Name: Mark Garcia  
+Team Members: Mark Garcia (Individual Submission)
+
+GitHub Repository:  https://github.com/mgkram4/legal-tool
+Commit Hash for Submission: 
+
+YouTube Demo Video: https://www.youtube.com/watch?v=VGX1UlBpBgA
+
+Technical Documentation (Project Report): 
+
+### Contact Information
+
+Name: Mark Garcia  
+GitHub: https://github.com/mgkram4/legal-tool
