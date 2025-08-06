@@ -161,6 +161,8 @@ Team Members: Mark Garcia (Individual Submission)
 GitHub Repository:  https://github.com/mgkram4/legal-tool
 Commit Hash for Submission: 
 
+Live Demo: https://legal-tool.vercel.app/
+
 YouTube Demo Video: https://www.youtube.com/watch?v=VGX1UlBpBgA
 
 Technical Documentation (Project Report): 
