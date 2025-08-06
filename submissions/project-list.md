@@ -158,7 +158,8 @@ Project Name: LegisCompare AI
 Team Name: Mark Garcia  
 Team Members: Mark Garcia (Individual Submission)
 
-GitHub Repository:  https://github.com/mgkram4/legal-tool
+GitHub Repository: https://github.com/mgkram4/LegisCompare-AI 
+
 Commit Hash for Submission: 
 
 Live Demo: https://legal-tool.vercel.app/
