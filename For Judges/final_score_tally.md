@@ -2,7 +2,7 @@
 
 This table summarizes the review scores for each project, by each human judge (anonymized as S, G, T), for all criteria and total scores. All scores are normalized to a 1–5 scale.
 
-| Project                | Judge | Innovation & Creativity | Impact & Relevance | Technical Excellence | Usability & Accessibility | Ethics & Fairness | **Total Score** |
+| Project                | Judge | Innovation & Creativity (25%) | Impact & Relevance (25%) | Technical Excellence (20%) | Usability & Accessibility (15%) | Ethics & Fairness (15%) | **Total Score** |
 |------------------------|-------|------------------------|--------------------|---------------------|--------------------------|-------------------|:--------------:|
 | **Behind the Bill**    | S     | 4.0                    | 4.0                | 3.0                 | 4.0                      | 3.0               | 3.65           |
 |                        | G     | 4.0                    | 4.5                | 4.5                 | 3.5                      | 4.0               | 4.15           |
