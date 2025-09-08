@@ -3,7 +3,7 @@
 ### Welcome Judges!
 Thank you for contributing your expertise to AI4Legislation 2025. Your role is crucial in ensuring a fair, thorough, and insightful evaluation of projects submitted by participants. Below are the official judging criteria and expectations for scoring.
 
-Please find the scoring template [here](https://docs.google.com/document/d/1QDL544tfsXJZylPYG_pfXJerEY_9C2tYhwNZU4XV2dQ/edit?usp=sharing) and make a copy for your own use. Your evaluation for each team must be shared or emailed to cynthia@svcaf.org by the end of the judging period (TBD).
+Please find the scoring template [here](https://docs.google.com/document/d/1QDL544tfsXJZylPYG_pfXJerEY_9C2tYhwNZU4XV2dQ/edit?usp=sharing) and make a copy for your own use. Your evaluation for each team must be shared or emailed to info@svcaf.org by the end of the judging period (Sept. 6, 2025).
 
 ## Evaluation Criteria
 Each project will be assesed based on five key criteria, weighted as follows:
