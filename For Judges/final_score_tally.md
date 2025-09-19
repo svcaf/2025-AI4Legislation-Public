@@ -34,10 +34,10 @@ This table summarizes the review scores for each project, by each human judge (a
 
 | Project                 | Human Judges Average Score | Award Level         |
 |-------------------------|:-------------------------:|:-------------------:|
-| Predictive Bill Tracker | 4.57                      | First Level Award   |
-| DebateSim               | 4.34                      | Second Level Award  |
-| Behind the Bill         | 3.82                      | Third Level Award   |
-| LegisCompareAI          | 3.68                      | Third Level Award   |
-| Billinguo               | 3.63                      | Third Level Award   |
+| Predictive Bill Tracker (Oliver Fan) | 4.57                      | First Level Award   |
+| DebateSim (Alex Liao, et al.)              | 4.34                      | Second Level Award  |
+| Behind the Bill (Lina Iyer)        | 3.82                      | Third Level Award   |
+| LegisCompareAI (Mark Garcia)         | 3.68                      | Third Level Award   |
+| Billinguo (Ian Lee)              | 3.63                      | Third Level Award   |
 
 
